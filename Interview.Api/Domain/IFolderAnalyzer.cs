@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace WebApplication1.Domain
+namespace Interview.Api.Domain
 {
     public interface IFolderAnalyzer
     {

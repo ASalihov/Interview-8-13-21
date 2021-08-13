@@ -1,8 +1,8 @@
 using NUnit.Framework;
 using System.Collections.Generic;
 using System.Linq;
-using WebApplication1.Controllers;
-using WebApplication1.Domain;
+using Interview.Api.Domain;
+using Interview.Api.Controllers;
 
 namespace Interview.UnitTests
 {

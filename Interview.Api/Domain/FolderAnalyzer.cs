@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
-namespace WebApplication1.Domain
+namespace Interview.Api.Domain
 {
     public class FolderAnalyzer : IFolderAnalyzer
     {
